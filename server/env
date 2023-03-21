@@ -1,0 +1,7 @@
+OPENAI_API_KEY = "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"
+
+MONGODB_URL ='mongodb+srv://kirtan27:<password>@cluster0.ssckcp5.mongodb.net/?retryWrites=true&w=majority'
+
+CLOUDINARY_CLOUD_NAME = "dw1lev3wz"
+CLOUDINARY_API_KEY = "774339331279937"
+CLOUDINARY_API_SECRET = "Px4mIn0ZKdLdV5H1a8QnuPO7JQk"
